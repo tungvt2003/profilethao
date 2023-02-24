@@ -174,7 +174,7 @@ var eric = function (){
 	
 	/*Typed js start*/
 	$("#typed").typed({
-		strings: ["^2100&nbsp;I Am Thao.<br/>Student.<br/> Living in Quang Tri Province."],
+		strings: ["^2100&nbsp;I Am Vo Phuong Thao.<br/>Student.<br/> Living in Quang Tri Province."],
 		typeSpeed: 30,
 		backDelay: 750,
 		loop: false,
