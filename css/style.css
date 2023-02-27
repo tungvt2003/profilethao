@@ -1479,5 +1479,6 @@ footer .goto-top {
     font-size: 32px;
     margin-top: 27px;
     font-family: 'Shadows Into Light', cursive;
-    font-weight: 600;
+    /* font-weight: 600; */
+    font-style: italic;
 }
