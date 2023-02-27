@@ -1474,3 +1474,10 @@ footer .goto-top {
     margin-left: 0;
   }
 }
+.thank{
+  text-align: center;
+    font-size: 32px;
+    margin-top: 27px;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: 600;
+}
