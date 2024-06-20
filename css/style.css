@@ -131,7 +131,9 @@ strong {
 
 body {
   color: #303133;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif;
+   */
+  font-family: system-ui;
   font-size: 14px;
   font-style: normal;
   line-height: 1.5;
