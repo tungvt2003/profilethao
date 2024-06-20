@@ -1158,7 +1158,8 @@ a.goto-social:hover {
 }
 .achivement-list-wrap .dash-pointer {
   display: inline-block;
-  margin-right: 30px;
+  margin-right: 15px;
+  margin-left: 20px;
   float: left;
 }
 .achivement-list-wrap .achive-pts {
