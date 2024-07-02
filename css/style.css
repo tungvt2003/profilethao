@@ -1899,6 +1899,7 @@ footer .goto-top a:hover span {
   text-align: center;
   font-size: 32px;
   margin-top: 27px;
+  padding-bottom: 15px;
   font-family: "Shadows Into Light", cursive;
   /* font-weight: 600; */
   font-style: italic;
